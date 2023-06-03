@@ -26,6 +26,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -----
 
-  <h3 align="center"> Developed by <a href="#">Helena Fernandes</a> ☕</h3>
 
  
