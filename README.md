@@ -8,7 +8,7 @@
 
 Um blog sobre tecnologia. O Hardware Universe com objetivo de fornecer informações úteis e interessantes para aqueles que estão interessados ​​em aprender tudo sobre o mundo da tecnologia .
 
-- Versão Final: [Hardware Universe](https://marcelo-abreeu.github.io/Blog-Prototype)
+- Versão Final: [Hardware Universe](https://github.io/Blog-Prototype)
 
 ## 🚀 Tecnologias
 
@@ -26,6 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -----
 
-  <h3 align="center"> Developed by <a href="#">Marcelo Abreu</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="#">Helena Fernandes</a> ☕</h3>
 
  
